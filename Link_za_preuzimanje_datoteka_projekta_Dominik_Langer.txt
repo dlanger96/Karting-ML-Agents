@@ -1,0 +1,8 @@
+Link za preuzimanje datoteka projekta:
+
+https://1drv.ms/u/s!AtEJ_yjfUtTzgUwaID-dVzfUdx5f?e=JdJlaY
+
+Nakon preuzimanja datoteke potrebno ju je raspakirati, zatim projekt morate dodati preko aplikacije Unity Hub tako da se odabere gumb ADD i zatim datoteka koja sadrži projekt
+Zatim pokrenite projekt i klikom na ikonu "Play" pokreće se simulacija
+Ako želite provesti ponovna treniranje molim Vas da pogledate dokumentaciju projekta, instalirate potrebne pakete i virtualna okruženja kako bi to mogo biti moguće
+ 
