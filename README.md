@@ -21,3 +21,5 @@ unutar projekta. Nakon višesatnog treniranja agenti su spremni za
 utrkivanje.
 
 
+<img align="center" alt="Staza"  src="https://raw.githubusercontent.com/dlanger96/Karting-ML-Agents/main/Slike/Izgled_igre.png"/>
+
